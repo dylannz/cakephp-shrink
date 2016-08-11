@@ -1,5 +1,5 @@
 {
-	"name": "trentrichardson/cakephp-shrink",
+	"name": "dylannz/cakephp-shrink",
 	"type": "cakephp-plugin",
 	"description": "Compiles, combines, and minifies javascript, coffee, less, scss, and css",
 	"keywords": ["cakephp","javascript","less","css","scss","sass","coffee","minify"],
